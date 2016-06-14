@@ -1,0 +1,31 @@
+body {
+	background-image: url('../images/bulletin-board.jpg');
+	font-family: 'Indie Flower', cursive;
+}
+
+.container {
+	background-image: url('../images/note.png');
+	background-repeat: no-repeat;
+	height: 500px;
+	width: 960px;
+	margin: 0 auto;
+}
+
+h1 {
+	margin-left: 125px;
+	padding-top: 8px;
+}
+
+.user-input {
+	margin-top: 5px;
+	margin-left: 45px;
+}
+
+.add-item {
+	margin-left: 30px;
+}
+
+li:first-child {
+	padding-top: 15px;
+}
+
